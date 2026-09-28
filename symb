@@ -1,0 +1,10 @@
+[] --> Siempre
+/\ --> And
+\/ --> Or
+[] --> En algun momento
+~> --> Siguiente estado
+\in --> Perteneciente al conjunto Ex: TypeOK = hr \in (1..12)
+hr' --> Definición de estado de transiciones
+hr --> Definición de estado
+[A]_hr --> Si A no ocurre, hr no cambia
+<> --> De forma ciclica
